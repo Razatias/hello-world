@@ -1,7 +1,7 @@
 # Project 1
 
 ## Live URL
-<www.p1.razatias.com>
+<http://www.p1.razatias.com>
 
 ## Description
 This is the first project, main goals:
